@@ -1,6 +1,6 @@
 # Bike Sharing Dataset
 
-Data downloaded from [UCI Machine Learning Repository- Census Income](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset).
+Data downloaded from [UCI Machine Learning Repository- Bike Sharing Dataset](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset).
 
 ## Data Set Information
 
