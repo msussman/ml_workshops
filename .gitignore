@@ -60,3 +60,5 @@ target/
 *.zip
 
 *.csv
+
+seeds/\.ipynb_checkpoints/
